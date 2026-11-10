@@ -1,0 +1,8 @@
+{
+  "name": "Market Precision",
+  "description": "High-density market intelligence, live charting, and technical screening workstation for modern traders and institutional market participants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
